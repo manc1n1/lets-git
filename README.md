@@ -32,7 +32,7 @@ Data Analytics - Project 1
 2.  Change directories to `lets-git`
 
     ```sh
-    cd pandas-challenge
+    cd lets-git
     ```
 
 3.  Open the `Jupyter Notebook` file `main.ipynb`
