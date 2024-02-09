@@ -9,7 +9,7 @@
 </div>
 
 ## Description
-Data Analytics - Project 1
+Data Analytics: Project 1
 
 ## Table of Contents
 
