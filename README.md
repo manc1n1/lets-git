@@ -35,7 +35,14 @@ Data Analytics: Project 1
     cd lets-git
     ```
 
-3.  Open the `Jupyter Notebook` file `main.ipynb`
+3.  Install dependencies
+
+    ```sh
+    pip install -r requirements.txt
+    ```
+    
+4.  Open and Run `Jupyter Notebook` file `city_data.ipynb`
+5.  Open and Run `Jupyter Notebook` file `weather_data.ipynb`
 
 ## Usage
 
