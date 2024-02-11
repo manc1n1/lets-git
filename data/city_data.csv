@@ -1,26 +1,26 @@
-,city,country,lon,lat,crime_index
-0,New Orleans,United States,-90.0782127,29.9759983,67.05
-1,New York,United States,-73.9497211,40.6526006,40.78
-2,Cebu,Philippines,121.5950704,16.7552303,51.88
-3,Manchester,United Kingdom,-2.2451148,53.4794892,55.81
-4,Antalya,Turkey,30.7074549,36.8872942,27.03
-5,Vancouver,Canada,-123.113952,49.2608724,38.25
-6,Iași,Romania,27.5837814,47.1615598,33.67
-7,Grenoble,France,5.7357819,45.1875602,54.2
-8,Newcastle upon Tyne,United Kingdom,-1.6131572,54.9738474,39.15
-9,Canberra,Australia,149.1012676,-35.2975906,22.31
-10,Florianópolis,Brazil,-48.5496098,-27.5973002,51.49
-11,Palma,Spain,2.6500745,39.5695818,32.28
-12,Irvine,United States,-117.8259819,33.6856969,20.9
-13,Cape Town,South Africa,18.417396,-33.928992,73.13
-14,Bologna,Italy,11.3426327,44.4938203,46.62
-15,Leipzig,Germany,12.3747329,51.3406321,40.86
-16,Ghent,Belgium,3.7250121,51.0538286,26.26
-17,St. Louis,United States,-90.1910154,38.6280278,70.46
-18,Klang Municipal Council,Malaysia,101.4447363,3.0448394,62.84
-19,Special Capital Region of Jakarta,Indonesia,106.8270488,-6.175247,53.3
-20,Eindhoven,Netherlands,5.478633,51.4392648,24.32
-21,Spokane,United States,-117.42351,47.6571934,55.06
-22,Banja Luka,Bosnia and Herzegovina,17.1917651,44.7720845,34.77
-23,Rome,Italy,12.4829321,41.8933203,53.11
-24,Montpellier,France,3.8767337,43.6112422,55.16
+city,country,lon,lat,crime_index
+City of Edinburgh,United Kingdom,-3.1883749,55.9533456,30.51
+Puebla,Mexico,-98.1981486,19.0437196,60.58
+Hamilton,Canada,-79.8728583,43.2560802,54.53
+Shanghai,China,121.4691024,31.2323437,33.41
+Ottawa,Canada,-75.6901106,45.4208777,27.27
+New York,United States,-74.0060152,40.7127281,48.13
+Nantes,France,-1.5541362,47.2186371,65.7
+Grenoble,France,5.7357819,45.1875602,54.2
+Lugano,Switzerland,8.9520281,46.0050102,19.48
+Saskatoon,Canada,-106.660767,52.131802,48.81
+Recife,Brazil,-34.8848193,-8.0584933,76.42
+Brasília,Brazil,-47.8823172,-15.7934036,59.46
+Coventry,United Kingdom,-1.510477,52.4081812,68.35
+Madrid,Spain,-3.7035825,40.4167047,30.06
+Dallas,United States,-96.7968559,32.7762719,50.64
+Detroit,United States,-83.0466403,42.3315509,74.63
+Karachi,Pakistan,67.0207055,24.8546842,54.1
+Uppsala,Sweden,17.6387436,59.8586126,40.56
+Tampa,United States,-82.458444,27.9477595,47.55
+Valencia,Spain,-0.3763353,39.4697065,27.68
+Barcelona,Spain,2.1774322,41.3828939,48.87
+Honolulu,United States,-157.855676,21.304547,46.24
+Cork,Ireland,-8.4654674,51.897077,36.03
+Quebec,Canada,-71.2084061,46.8137431,15.14
+Oradea,Romania,21.9285231,47.0549163,19.82
