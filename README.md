@@ -10,6 +10,7 @@
 
 ## Description
 -   Climate vs. Crime Index
+-   US North & US South vs. Crime Index
 -   Climate vs. Suicide Rate
 
 ## Table of Contents
@@ -48,14 +49,51 @@
 
 ## Usage
 
+<div align="center">
+    
 **Crime Index Map Plot**
+
 ![cimp](https://github.com/manc1n1/lets-git/assets/18316547/b477d2b9-bb9f-4711-afa5-10cc154a82ad)
 
+<img width="698" alt="Average Temp Hist" src="https://github.com/manc1n1/lets-git/assets/18316547/e90c3128-822b-44a8-9b7a-325f6f3e192e">
+
+<img width="698" alt="Crime Index Hist" src="https://github.com/manc1n1/lets-git/assets/18316547/eed5f027-8ea8-4420-98e4-52a53acb662b">
+
 **Average Temperature vs. Crime Index**
+
+The r-squared is: 0.02647214945425883
+
 ![tvc](https://github.com/manc1n1/lets-git/assets/18316547/1c2afe07-d215-4635-9d54-29da8504ae2e)
 
 **Average Temperature vs. Suicide Rate (per 100k population)**
+
+The r-squared is: 0.0946009854236267
+
 ![tvs](https://github.com/manc1n1/lets-git/assets/18316547/22d79225-59c8-44b8-97bf-e69865d51cff)
+
+**US Crime Index Map Plot**
+
+<img width="847" alt="US Crime Map" src="https://github.com/manc1n1/lets-git/assets/18316547/44a797c2-6450-4a79-909a-84f586173df2">
+
+**US Temperature Map Plot**
+
+<img width="845" alt="US Temp Map" src="https://github.com/manc1n1/lets-git/assets/18316547/570191d5-0b05-432b-9c0f-b6bdebcadf71">
+
+**Average Temperature (Northern US) vs. Crime Index (Northern US)**
+
+The r-squared is: 0.12882830500813564
+
+![nus](https://github.com/manc1n1/lets-git/assets/18316547/0a33ae6d-cb3a-4fd3-813b-067cb3599696)
+
+**Average Temperature (Southern US) vs. Crime Index (Southern US)**
+
+The r-squared is: 0.008932637280915468
+
+![sus](https://github.com/manc1n1/lets-git/assets/18316547/9f3e097a-b768-45c1-8a33-0c00aeaf82f4)
+
+![image](https://github.com/manc1n1/lets-git/assets/18316547/a7b9213c-ca68-4cb3-a8a8-34148d448257)
+
+</div>
 
 ## Tests
 
