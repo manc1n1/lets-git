@@ -43,8 +43,18 @@ Data Analytics: Project 1
     
 4.  Open and Run `Jupyter Notebook` file `city_data.ipynb`
 5.  Open and Run `Jupyter Notebook` file `weather_data.ipynb`
+6.  Open and Run `Jupyter Notebook` file `suicide_data.ipynb`
 
 ## Usage
+
+**Crime Index Map Plot**
+![cimp](https://github.com/manc1n1/lets-git/assets/18316547/b477d2b9-bb9f-4711-afa5-10cc154a82ad)
+
+**Average Temperature vs. Crime Index**
+![tvc](https://github.com/manc1n1/lets-git/assets/18316547/1c2afe07-d215-4635-9d54-29da8504ae2e)
+
+**Average Temperature vs. Suicide Rate (per 100k population)**
+![tvs](https://github.com/manc1n1/lets-git/assets/18316547/22d79225-59c8-44b8-97bf-e69865d51cff)
 
 ## Tests
 
