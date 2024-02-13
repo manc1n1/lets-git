@@ -9,7 +9,8 @@
 </div>
 
 ## Description
-Data Analytics: Project 1
+-   Climate vs. Crime Index
+-   Climate vs. Suicide Rate
 
 ## Table of Contents
 
