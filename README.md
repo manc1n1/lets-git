@@ -79,6 +79,10 @@ The r-squared is: 0.0946009854236267
 
 <img width="845" alt="US Temp Map" src="https://github.com/manc1n1/lets-git/assets/18316547/570191d5-0b05-432b-9c0f-b6bdebcadf71">
 
+**Average Temperature (US) vs. Crime Index (US)**
+
+![image](https://github.com/manc1n1/lets-git/assets/18316547/aa712bd0-7df6-4da5-be4e-ddbe37b9fc6a)
+
 **Average Temperature (Northern US) vs. Crime Index (Northern US)**
 
 The r-squared is: 0.12882830500813564
