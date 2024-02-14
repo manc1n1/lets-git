@@ -91,6 +91,10 @@ The r-squared is: 0.008932637280915468
 
 ![sus](https://github.com/manc1n1/lets-git/assets/18316547/9f3e097a-b768-45c1-8a33-0c00aeaf82f4)
 
+**Boxplot grouped by US Region**
+
+F_onewayResult(statistic=0.1353006888682242, pvalue=0.7143371612781761)
+
 ![image](https://github.com/manc1n1/lets-git/assets/18316547/a7a9b883-7ad9-4112-8803-e1a0efb5c725)
 
 </div>
